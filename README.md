@@ -1,7 +1,7 @@
 ### Bonjour 👋
 
 # Description
-- 💻 Développeur principalement C++ et Lua
+- 💻 Coming soon
 
 # Stats
 <p align="center">
