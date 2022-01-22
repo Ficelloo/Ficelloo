@@ -1,4 +1,4 @@
-### Bonjour/Hello 👋
+### Hello 👋
 
 # Description
 - 💻 Coming soon
