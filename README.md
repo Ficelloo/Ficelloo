@@ -1,7 +1,7 @@
 ### Hello 👋
 
 # Description
-- 💻 C/C++/Lua developper
+- 💻 C++/Lua developper
 - 🔨 Making some backend in php
 - 🔧 Like to reverse engineering some programs
 - 🐧 Linux user
