@@ -1,7 +1,10 @@
 ### Hello 👋
 
 # Description
-- 💻 Coming soon
+- 💻 C/C++/Lua developper
+- 🔨 Making some backend in php
+- 🔧 Like to reverse engineering some programs
+- 🐧 Linux user
 
 # Stats
 <p align="center">
